@@ -17,6 +17,6 @@ So that <benefit>.
 - 
 
 ## Acceptance Criteria
-Given
-When
-Then
+Given <initial context>
+When <action occurs>
+Then <expected result>
